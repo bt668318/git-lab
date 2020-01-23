@@ -22,4 +22,17 @@ Answer 8 = commit 073574b5ac5aa8fe0616d8c06347327e542bb7c9 (HEAD -> master)
 Author: Ben Theis <btheis@odd19.cs.ohiou.edu>
 Date:   Wed Jan 22 18:40:23 2020 -0500
 
+Answer 9 = btheis@odd19:~/2400/git-lab$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Answer 10 = No they were not made to my local copy
+
+Answer 11 = I get an error message saying that it failed to push some refs to github
+
+Answer 12 = Yes the online changes reflected the local copy
+
+Answer 13 = .  ..  git-lab	Git-lab-2  labs
+
+
 
